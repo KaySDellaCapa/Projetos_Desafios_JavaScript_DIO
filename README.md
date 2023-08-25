@@ -1,1 +1,1 @@
-# Projetos_Desafios_JavaScript_DIO
+Projetos e Desafios feitos durante a formação JavaScript Developer na plataforma DIO
