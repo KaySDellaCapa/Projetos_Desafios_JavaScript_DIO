@@ -16,7 +16,12 @@ Para cada arquivo da entrada, terá um arquivo de saída. E como mencionado no D
 Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-Entrada	Saída
-5.5	REC
-8	APR
-2	REC
+Entrada	
+5.5	
+8	
+2	
+
+Saída
+REC
+APR
+REC
